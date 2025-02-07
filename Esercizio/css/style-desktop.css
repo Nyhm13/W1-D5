@@ -67,13 +67,14 @@ img {
     margin: 5% 0%;
 }
 header {
-    margin-bottom: 12%;
+    margin-bottom: 5%;
     
 }
 .first-section {
     display: inline-block;
     text-align: start;
     width: 40%;
+    margin-bottom: 5%;
 }
 main section {
     width: 100%;
@@ -87,6 +88,7 @@ section p {
   display: inline-block;
   text-align:start;
   width:50%;
+  margin-bottom: 5%;
   
 }
 
@@ -128,6 +130,8 @@ section p {
 .pictures  {
     margin:10% 0%;
     border: 2px solid #dee1e3;
+    width: 30%;
+    display: inline-block;
 }
 .pictures img {
     width: 100%;
@@ -180,3 +184,12 @@ footer span {
  #last {
     display: inline-block;
  }
+ .card {
+    display: inline-block;
+    width: 25%;
+    height: 467px;
+    margin: 90px 1.5%;
+    border: 1px solid #dee1e3;
+    box-sizing: border-box;
+    vertical-align: top;
+    }
